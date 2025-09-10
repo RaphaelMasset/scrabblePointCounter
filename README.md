@@ -19,15 +19,15 @@ gcc scrabble.c -o scrabble
 
 ### macOS/Linux (bash)
 
-\`\`\`bash
+```bash
 gcc scrabble.c -o scrabble
 ./scrabble
-\`\`\`
+```
 
 ## Example Session
 
-\`\`\`
+```
 Player 1: Hello
 Player 2: World
 Player 2 wins!
-\`\`\`
+```
