@@ -12,10 +12,10 @@ A simple two-player word game where each player enters a word, and the program s
 
 ### Windows (PowerShell)
 
-\`\`\`powershell
+```powershell
 gcc scrabble.c -o scrabble
 ./scrabble.exe
-\`\`\`
+```
 
 ### macOS/Linux (bash)
 
